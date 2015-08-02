@@ -1,9 +1,5 @@
 # Vim Snippets for Node.js
-Here be various snippets for use with Vim SnipMate to make node.js development quicker and easier. You'll need snipmate installed, then just dump the contents of snippets/javascript into the directory ~/.vim/snippets/javascript.
+**A WORK IN PROGRESS**
+Snippets for node.js that conform to stanrad rules.
+[![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
-## Examples
-fs.readFile
-fs.writeFile
-reqsys
-reqhttp
-etc.
